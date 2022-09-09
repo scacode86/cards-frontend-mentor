@@ -1,3 +1,19 @@
+# Stats preview card component
+Desafio Frontend mentor
+
+## Autor ✒️
+**Scotty Vargas** - *Documentación y trabajo inicial*
+
+* [LinkedIn](https://www.linkedin.com/in/scotty-vargas/)
+* [Portfolio](https://scacode.com/)
+* [Codepen](https://codepen.io/Scacode)
+
+## Ver ejemplo en vivo
+[Demo del Proyecto](https://scacode86.github.io/cards-frontend-mentor/)
+
+## Instalacion
+Este proyecto no necesita instalacion. Simplemente abre la carpeta o has doble click en el .html
+
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
